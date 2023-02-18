@@ -1,0 +1,43 @@
+header {
+  border: solid;
+  border-color: rgb(203, 20, 20);
+  border-top-right-radius: 15%;
+  border-top-left-radius: 15%;
+  color: rgb(4, 252, 169);
+  background-color: rgb(157, 22, 22);
+}
+
+main {
+  border: solid gray;
+  border-color: rgb(203, 20, 20);
+  border-bottom-right-radius: 15%;
+  border-bottom-left-radius: 15%;
+  background-color: black;
+}
+
+.div-screen {
+  display: inline-block;
+  margin: 10px;
+  color: aqua;
+  font-size: medium;
+}
+
+.screen {
+  margin: 0px;
+}
+
+.operators {
+  padding: 40px;
+
+  display: inline-block;
+  list-style: none;
+  border: solid grey;
+}
+
+.results {
+  padding: 65px;
+
+  display: inline-block;
+  list-style: none;
+  border: solid grey;
+}
